@@ -1,6 +1,6 @@
 {
   "name": "francislyj-utils-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common utils",
   "main": "index.js",
   "scripts": {
