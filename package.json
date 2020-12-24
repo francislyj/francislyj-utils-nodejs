@@ -1,0 +1,19 @@
+{
+  "name": "francislyj-utils-nodejs",
+  "version": "1.0.0",
+  "description": "common utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francislyj/francislyj-utils-nodejs.git"
+  },
+  "author": "yijun.liu (franicslyj)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francislyj/francislyj-utils-nodejs/issues"
+  },
+  "homepage": "https://github.com/francislyj/francislyj-utils-nodejs#readme"
+}
